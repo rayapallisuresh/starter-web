@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 
 ## Environment 
   This will be local commit 
+
+## Staging 
+  This will be in staging area
+ 
+## Working Dir
+   This will be in working directory
